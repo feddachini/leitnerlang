@@ -1,3 +1,5 @@
-# **leitnerlang**
+# **Polyglot NYC** formerly LeitnerLang
 
-https://testnet.flowscan.io/account/0x17c88b3a4fab12ef
+Full Backend Built and Deployed on Flow, used Dynamic + Flow Auth.
+Deployed to Testnet: https://testnet.flowscan.io/account/0x17c88b3a4fab12ef
+Frontend Nextjs.
